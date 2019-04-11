@@ -10,7 +10,7 @@ website: dfranke.nl
 
 # Social links
 #dockerhub_username: mvdmeij
-github_username:  insertnaam
+github_username: insertnaam
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
@@ -26,7 +26,7 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
 Communicatie is interessant, maar ik vind de techniek erachter nog interessanter. Als aankomend gecertificeerd Java SE 8 Developer wil ik me daarom graag ontwikkelen in de IT. Tijdens mijn omscholingstraject bij ITMG heb ik les gehad in HTML, CSS, XML, Javascript, SQL PHP, maar ik focus me vooral op Java. Het Agile Scrum Foundation examen heb ik behaald.  
 
-  Ik ben erg goed in: <mark>onderzoeken</mark> en <mark>lachen</mark>
+  Ik ben erg goed in:  <mark>onderzoeken</mark> en <mark>lachen</mark>
 
 # Projects Section
 # projects_title: Projects
@@ -40,7 +40,7 @@ Communicatie is interessant, maar ik vind de techniek erachter nog interessanter
 # More Section
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
-  Alongside my interests in development and operations engineering some of my other interests and hobbies are:
+  Alongside my interests in development and operations engineering some of my other interests and hobbies are: 
    - Boulderen 
    - Tekenen
    - Leuke dingen doen met vriendinnen
