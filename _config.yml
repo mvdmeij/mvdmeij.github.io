@@ -1,0 +1,59 @@
+# Site
+repository: mvdmeij/github.io
+# favicon: images/favicon.ico
+
+# Personal info
+name: Danielle Franke 
+title: Java Developer
+email: danielle.franke91@gmail.com      
+website: dfranke.nl
+
+# Social links
+#dockerhub_username: mvdmeij
+github_username:  insertnaam
+# dribbble_username: jekyll
+# facebook_username: jekyll
+# flickr_username: jekyll
+#instagram_username: 
+linkedin_username: daniellefranke
+# pinterest_username: jekyll
+#youtube_username: 
+# googleplus_username: +jekyll
+
+# About Section
+# about_title: About Me
+about_profile_image: images/profile.jpg
+about_content: | # this will include new lines to allow paragraphs
+Communicatie is interessant, maar ik vind de techniek erachter nóg interessanter. Als aankomend gecertificeerd Java SE 8 Developer (1Z0-808) wil ik me daarom graag ontwikkelen in de IT. Tijdens mijn omscholingstraject bij ITMG heb ik les gehad in HTML, CSS, XML, Javascript, SQL PHP, maar ik focus me vooral op Java. Het Agile Scrum Foundation examen heb ik behaald.  
+
+  Ik ben erg goed in: <mark>onderzoeken</mark> en <mark>lachen</mark>
+
+# Projects Section
+# projects_title: Projects
+
+# Experience Section
+# experience_title: Experience
+
+# Education Section
+# educaton_title: Education
+
+# More Section
+# more_title: A Little More About Me
+more_content: | # this will include new lines to allow paragraphs
+  Alongside my interests in development and operations engineering some of my other interests and hobbies are:
+   - Boulderen 
+   - Tekenen
+   - Leuke dingen doen met vriendinnen
+   - Drankjes doen
+
+# Footer
+footer_show_references: false 
+
+# Build settings
+remote_theme: sproogen/resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
